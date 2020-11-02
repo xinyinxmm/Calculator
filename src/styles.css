@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  width: 360px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.small-block {
+  width: 80px;
+  height: 80px;
+}
+
+.big-block {
+  width: 160px;
+  height: 80px;
+}
+
+.v-block {
+  width: 80px;
+  height: 160px;
+}
